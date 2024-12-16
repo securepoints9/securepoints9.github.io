@@ -1739,8 +1739,11 @@ img.mfp-img {
     width: 58px;
   }
  .slick-track, .hero-slide-item {
-     width: 100% !important
+     width: 100% !important;
   }
+   .section-service  .slick-track {
+         transform: none !important;
+    }
 }
 
 .socail-top {
