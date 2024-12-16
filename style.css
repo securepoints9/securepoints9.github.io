@@ -1738,6 +1738,9 @@ img.mfp-img {
     margin: 6px 0;
     width: 58px;
   }
+ .slick-track, .hero-slide-item {
+     width: 100%
+  }
 }
 
 .socail-top {
