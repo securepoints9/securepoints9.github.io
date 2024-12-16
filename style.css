@@ -1734,15 +1734,18 @@ img.mfp-img {
      width: 80px;
  }
 @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .logo {
-    margin: 6px 0;
-    width: 58px;
-  }
- .slick-track, .hero-slide-item {
-     width: 100% !important;
-  }
-   .section-service  .slick-track {
+      .logo {
+        margin: 6px 0;
+        width: 58px;
+      }
+     .slick-track, .hero-slide-item {
+         width: 100% !important;
+      }
+    .section-service  .slick-track {
          transform: none !important;
+    }
+    .section-service .slick-slide {
+        width: 100% !important;
     }
 }
 
