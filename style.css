@@ -1758,6 +1758,7 @@ img.mfp-img {
         position: fixed;
         bottom: 24px;
         right: 20px;
+        width: 43px;
     }
     
      .slick-track, .hero-slide-item {
