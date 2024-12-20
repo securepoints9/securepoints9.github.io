@@ -1751,8 +1751,14 @@ img.mfp-img {
       }
 
         .call-icon {
-            width: 20px;
+            width: 28px;
         }
+
+    .call-btn {
+        position: fixed;
+        bottom: 24px;
+        right: 20px;
+    }
     
      .slick-track, .hero-slide-item {
          width: 100% !important;
@@ -1989,7 +1995,6 @@ img.mfp-img {
   float: right;
   font-size: 28px;
   color: #333;
-    margin-left: 15px;
 }
 
 .clickable-menu.clickable-mainmenu-active.bg-white-icon a {
