@@ -1751,14 +1751,15 @@ img.mfp-img {
       }
 
         .call-icon {
-            width: 28px;
+            width: 100%;
         }
 
     .call-btn {
-        position: fixed;
+       position: fixed;
         bottom: 24px;
         right: 20px;
-        width: 43px;
+        width: 50px;
+        box-shadow: 2px 2px 12px rgb(0 0 0 / 90%);
     }
     
      .slick-track, .hero-slide-item {
