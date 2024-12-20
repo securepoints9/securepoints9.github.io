@@ -1297,6 +1297,17 @@ img.mfp-img {
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
+
+.call-btn {
+    background: #2c2727 !important;
+    padding: 8px !important;
+    border-color: #2c2727 !important;
+}
+
+.call-icon {
+ width: 25px;
+}
+
 .btn:focus {
   outline: none;
   -webkit-box-shadow: none;
